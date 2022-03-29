@@ -1,3 +1,3 @@
 console.log('hi cicd');
 
-comsole.log("dudi");
+console.log("dudi");
