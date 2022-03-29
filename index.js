@@ -6,4 +6,4 @@ console.log("dudi");
 
 console.log("dudi");
 
-console.log("dudi"
+console.log("dudi");
